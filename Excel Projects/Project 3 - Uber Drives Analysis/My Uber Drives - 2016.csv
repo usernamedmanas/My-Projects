@@ -1,0 +1,25 @@
+Row Labels,Average of SPEED (M/H),,,,,,,
+Airport/Travel,13.53157539,,Row Labels,Count of CATEGORY*,,,Row Labels,Count of RIDE TIME
+Between Offices,25.62291481,,Business,1059,,,AFTERNOON,396
+Charity ($),33.55555556,,Personal,77,,,EVENING,310
+Commute,58.44324324,,Grand Total,1136,,,MIDNIGHT,36
+Customer Visit,27.55699623,,,,,,MORNING,190
+Errand/Supplies,19.46355928,,,,,,NIGHT,204
+Meal/Entertain,21.75990585,,,,,,Grand Total,1136
+Meeting,28.54551569,,,,,,,
+Moving,18.38839286,,,,,,,
+Temporary Site,24.22066208,,,,,,,
+Grand Total,24.45150374,,,,,,,
+,,,,,,,,
+Row Labels,Average of RIDE DURATION (min),,,,,,,
+Airport/Travel,26,,,,,,,
+Between Offices,25.5,,,,,,,
+Charity ($),27,,,,,,,
+Commute,185,,,,,,,
+Customer Visit,33.87878788,,,,,,,
+Errand/Supplies,12.9765625,,,,,,,
+Meal/Entertain,16.125,,,,,,,
+Meeting,29.73796791,,,,,,,
+Moving,15,,,,,,,
+Temporary Site,26.66666667,,,,,,,
+Grand Total,23.48998459,,,,,,,
